@@ -8,8 +8,10 @@
       "removeComments": true,
       "sourceMap": true,
       "target": "es5",
-      "allowSyntheticDefaultImports": true
+      "allowSyntheticDefaultImports": true,
+  
     },
+    
     "include": [
       "src/index.tsx"
     ],
